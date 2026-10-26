@@ -1,0 +1,14 @@
+# Python virtual environment and cache
+.venv/
+__pycache__/
+*.pyc
+
+# Editor settings
+.vscode/
+
+# Source documents (copyright of the institutions; download links in data/sources.json)
+data/raw/
+data/extracted/
+
+# Temporary backup used only for before/after comparison
+data/structured/unified/all_courses_before_fix.json

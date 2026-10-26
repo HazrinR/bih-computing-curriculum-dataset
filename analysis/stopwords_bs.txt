@@ -1,0 +1,10 @@
+# Bosnian function words (closed-class words with no subject meaning)
+a ako ali bi bih bila bile bili bilo biti bude budu će ćemo ćete da do dok dva dvije ga gdje i ih ili iz iza ja je jedan jedna jedne jedno jer još joj ju kad kada kako kao
+koja koje koji kojih kojim kojima koju kod koga kroz li mu na nad nakon ne nego ni niti njega njih njihov njihova njihove njihovih njihovim njim njima njegov njegova njegove njegovih
+o od oko on ona one oni ono pa pod po poput pri prije s sa se sebe si smo su sve svi svih svim svoj svoja svoje svojih svojim svojom šta što ta tako te ti to tog toga tom tu u uz uključujući vas već za zbog
+# Words that appear in course descriptions of every subject (no subject meaning)
+cilj cilju kurs kursa kursu kurseva predmet predmeta predmetu student studenti studenta studentima studenata sposobnost sposobnosti sposoban moći biće uspješno uspješnog završetka završi završetku završenog
+ishodi učenja sljedeće kompetencije osnovne osnovnih osnovnim osnovni osnovna osnove osnovama znanje znanja različite različitih različitim nastavnim nastavni načini način treba trebaju sedmica poglavlje uvod zaključak pregled
+# Generic learning-outcome verbs (they say WHAT a student does, not WHICH subject)
+razumjeti razumijevanje upoznati imati imaće primijeniti primjeniti primjena primjene primjenu implementirati analizirati opisati objasniti identificirati koristiti korištenje korištenjem koristeći razviti razvijati demonstrirati procijeniti dizajnirati kreirati prepoznavanje prepoznati
+pojam pojmovi pojmova metode metoda tehnike tehnika problema probleme izučavanje izučavanja stvarnom stvarnog realnom realnog potrebe potrebne napredne naprednih napredni

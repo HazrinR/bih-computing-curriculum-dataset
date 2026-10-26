@@ -1,0 +1,121 @@
+dataset_id,institution_key,course_name,lo_count,topic_count
+fit_001,fit,RAČUNARSTVO I INFORMATIKA,5,14
+fit_002,fit,PROGRAMIRANJE I,6,11
+fit_003,fit,MATEMATIKA I,9,13
+fit_004,fit,DIGITALNA LOGIKA,6,12
+fit_005,fit,ENGLESKI JEZIK I,3,15
+fit_006,fit,PROGRAMIRANJE II,7,11
+fit_007,fit,MATEMATIKA II,8,14
+fit_008,fit,OPERATIVNI SISTEMI,6,11
+fit_009,fit,WEB RAZVOJ I DIZAJN,1,15
+fit_010,fit,ENGLESKI JEZIK II,3,14
+fit_011,fit,UVOD U MARKETING,5,10
+fit_012,fit,UVOD U POSLOVANJE,3,11
+fit_013,fit,UVOD U MENADŽMENT,1,14
+fit_014,fit,PROGRAMIRANJE III,6,10
+fit_015,fit,BAZE PODATAKA I,4,10
+fit_016,fit,STRUKTURE PODATAKA I ALGORITMI,2,14
+fit_017,fit,MATEMATIKA III,7,13
+fit_018,fit,RAČUNARSKE MREŽE I,4,12
+fit_019,fit,ANALIZA I DIZAJN SOFTVERA,5,13
+fit_020,fit,BAZA PODATAKA II,5,4
+fit_021,fit,PRIMIJENJENA STATISTIKA,8,14
+fit_022,fit,ENGLESKI JEZIK III,4,14
+fit_023,fit,KOMPJUTERSKA GRAFIKA,3,14
+fit_024,fit,PARALELNO PROGRAMIRANJE,5,10
+fit_025,fit,RAZVOJ SOFTVERA I,5,4
+fit_026,fit,MODELIRANJE POSLOVNIH PROCESA,4,15
+fit_027,fit,INTERAKCIJA ČOVJEK-RAČUNAR,3,12
+fit_028,fit,INFORMACIJSKA SIGURNOST,1,10
+fit_029,fit,POSLOVNA INTELIGENCIJA,3,9
+fit_030,fit,ADMINISTRACIJA BAZA PODATAKA,1,10
+fit_031,fit,RAZVOJ SOFTVERA II,5,8
+fit_032,fit,UPRAVLJANJE PROJEKTOM,9,13
+fit_033,fit,KVALITET SOFTVERA,4,6
+fit_034,fit,DIZAJN I RAZVOJ INTERNET OF THINGS PROJEKATA,4,14
+fit_035,fit,PRAKSA,4,3
+ibu_001,ibu,UVOD U BAZE PODATAKA I MODELIRANJE PODATAKA,7,15
+ibu_002,ibu,OBJEKTNO ORIJENTISANO PROGRAMIRANJE,10,15
+ibu_003,ibu,DISKRETNA MATEMATIKA,6,15
+ibu_004,ibu,WEB PROGRAMIRANJE,10,15
+ibu_005,ibu,ANALIZA I DIZAJN SISTEMA,6,15
+ibu_006,ibu,ETIČKA I PRAVNA PITANJA IT-a,5,15
+ibu_007,ibu,PARALELNO PROGRAMIRANJE,5,15
+ibu_008,ibu,RAZVOJ SIGURNOG SOFTVERA,5,15
+ibu_009,ibu,RAČUNARSKA ORGANIZACIJA,6,15
+ibu_010,ibu,MOBILNO PROGRAMIRANJE,7,15
+ibu_011,ibu,SISTEMI BAZA PODATAKA,5,15
+ibu_012,ibu,OPERATIVNI SISTEMI,5,15
+ibu_013,ibu,OPTIMIZACIJSKI ALGORITMI,5,14
+ibu_014,ibu,OSNOVE RAČUNARSKE SIGURNOSTI,5,15
+ibu_015,ibu,NESTRUKTURIRANI PODACI,13,15
+ibu_016,ibu,INDUSTRIJSKA OBUKA,5,15
+ibu_017,ibu,UPRAVLJANJE SOFTVERSKIM PROJEKTIMA,4,15
+ibu_018,ibu,RAZVOJ ZA VIŠE PLATFORMI,4,15
+ibu_019,ibu,UVOD U OBRADU PRIRODNOG JEZIKA,5,15
+ibu_020,ibu,INFORMACIONI SISTEMI,5,15
+ibu_021,ibu,OSIGURAVANJE KVALITETE SOFTVERA,6,15
+ibu_022,ibu,UVOD U RAČUNARSTVO U OBLAKU,5,15
+ibu_023,ibu,UVOD U E-TRGOVINU,5,15
+ibu_024,ibu,DIPLOMSKI RAD,5,15
+ibu_025,ibu,SOFTVERSKO INŽINJERSTVO,5,15
+ibu_026,ibu,BLOCKCHAIN I WEB3 KONCEPTI,10,15
+ibu_027,ibu,UVOD U MOBILNO I BEŽIČNO UMREŽAVANJE,4,15
+ibu_028,ibu,UVOD U RUDARENJE PODATAKA,6,15
+ibu_029,ibu,KONTINUIRANA ISPORUKA I DEVOPS,6,15
+ibu_030,ibu,UVOD U KRIPTOGRAFIJU,5,15
+ibu_031,ibu,PROGRAMSKI JEZICI,5,15
+ibu_032,ibu,TEORIJA AUTOMATA I FORMALNI JEZICI,5,15
+ibu_033,ibu,ANALIZA ALGORITAMA,5,15
+ibu_034,ibu,UVOD U PREPOZNAVANJE OBRAZACA,5,15
+ibu_035,ibu,UVOD U LOGIČKO PROGRAMIRANJE,5,15
+ibu_036,ibu,PROGRAMIRANJE IGARA,5,15
+ibu_037,ibu,UVOD U MENADŽMENT INFORMACIONIH SISTEMA,5,15
+ibu_038,ibu,UVOD U RAČUNARSKU GRAFIKU,5,15
+ibu_039,ibu,OBRADA SIGNALA U RAČUNARSTVU,6,15
+ibu_040,ibu,UVOD U NEURALNE MREŽE,5,15
+ibu_041,ibu,UVOD U EVOLUCIJSKO RAČUNANJE,5,15
+ibu_042,ibu,UVOD U RAČUNARSKU VIZIJU,5,15
+ibu_043,ibu,DIGITALNA KOMUNIKACIJA PODATAKA,5,15
+ibu_044,ibu,UVOD U MREŽNO PROGRAMIRANJE,5,15
+etf_001,etf,Inženjerska matematika 1,7,9
+etf_002,etf,Osnove elektrotehnike,2,10
+etf_003,etf,Inženjerska fizika 1,3,12
+etf_004,etf,Linearna algebra i geometrija,6,10
+etf_005,etf,Osnove računarstva,5,8
+etf_006,etf,Inženjerska matematika 2,7,9
+etf_007,etf,Tehnike programiranja,4,5
+etf_008,etf,Matematička logika i teorija izračunljivosti,3,6
+etf_009,etf,Vjerovatnoća i statistika,4,12
+etf_010,etf,Operativni sistemi,5,11
+etf_011,etf,Algoritmi i strukture podataka,6,10
+etf_012,etf,Logički dizajn,5,7
+etf_013,etf,Razvoj programskih rješenja,8,12
+etf_014,etf,Osnove baza podataka,6,8
+etf_015,etf,Diskretna matematika,3,5
+etf_016,etf,Sistemsko programiranje,4,12
+etf_017,etf,Numerički algoritmi,4,8
+etf_018,etf,Računarske arhitekture,4,8
+etf_019,etf,Osnove računarskih mreža,5,14
+etf_020,etf,Objektno orijentisana analiza i dizajn,11,11
+etf_021,etf,Automati i formalni jezici,8,10
+etf_022,etf,Razvoj mobilnih aplikacija,4,6
+etf_023,etf,CAD-CAM inžinjering,4,12
+etf_024,etf,Ugradbeni sistemi,7,9
+etf_025,etf,Digitalno procesiranje signala,4,11
+etf_026,etf,Web tehnologije,4,12
+etf_027,etf,Računarska grafika,3,11
+etf_028,etf,Osnove informacionih sistema,4,10
+etf_029,etf,Osnove operacionih istraživanja,4,5
+etf_030,etf,Verifikacija i validacija softvera,8,7
+etf_031,etf,Poslovni web sistemi,5,6
+etf_032,etf,Programski jezici i prevodioci,6,13
+etf_033,etf,Računarsko modeliranje i simulacija,5,9
+etf_034,etf,Softverski inžinjering,4,10
+etf_035,etf,Projektovanje informacionih sistema,3,6
+etf_036,etf,Vještačka inteligencija,4,7
+etf_037,etf,Organizacija softverskog projekta,4,10
+etf_038,etf,Administracija računarskih mreža,4,13
+etf_039,etf,Dizajn i arhitektura softverskih sistema,5,6
+etf_040,etf,Projektovanje i sinteza digitalnih sistema,10,10
+etf_041,etf,Završni rad,9,6

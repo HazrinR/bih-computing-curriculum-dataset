@@ -1,0 +1,26 @@
+{
+    "fit": {
+        "source_url": "https://www.fit.ba/content/a77e95ef-1a7c-4cae-b37a-f3a4619ecc1b",
+        "curriculum_version": "not stated in the document",
+        "retrieval_date": "2026-08-19",
+        "document_language": "bs",
+        "instruction_language": "bs",
+        "instruction_language_source": "institution level (public university, official languages of BiH); not stated in the course specifications"
+    },
+    "ibu": {
+        "source_url": "https://drive.google.com/drive/folders/14Y8jSEPG3CDvBQNEQQuif7irIZzOsHQI",
+        "curriculum_version": "2024/2025 (academic year stated in the document)",
+        "retrieval_date": "2026-09-12",
+        "document_language": "bs",
+        "instruction_language": "en",
+        "instruction_language_source": "stated in each course specification"
+    },
+    "etf": {
+        "source_url": "https://etf.unsa.ba/uploads/d0937793ed9bdd70032558e470669f9b.pdf",
+        "curriculum_version": "2014 (still in use)",
+        "retrieval_date": "2026-08-23",
+        "document_language": "bs",
+        "instruction_language": "bs",
+        "instruction_language_source": "institution level (public university, official languages of BiH); not stated in the course specifications"
+    }
+}
