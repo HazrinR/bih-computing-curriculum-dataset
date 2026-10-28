@@ -96,6 +96,7 @@ python scripts/validate_unified.py
 
 # 5. analysis
 python analysis/lo_counts.py
+python analysis/make_fig2_schema.py   # Fig. 2 of the paper
 python analysis/tfidf_terms.py
 
 # 6. (optional) load into a local MongoDB
