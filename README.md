@@ -133,4 +133,34 @@ Missing information is stored as `null` or `[]` and is never inferred.
 | | `description`, `objectives` | Course description / objectives, if given |
 | | `teaching_methods`, `assessment`, `student_obligations`, `prerequisites` | As given in the source |
 | | `literature`, `mandatory_literature`, `recommended_literature`, `additional_literature` | Literature lists |
-| |
+| | `lecture_hours`, `laboratory_hours`, `tutorial_hours`, `self_study_hours` | Weekly hours (ETF only) |
+| Language | `document_language` | Language of the curriculum document (`bs` for all records) |
+| | `instruction_language` | Language of instruction (`en` for IBU, `bs` for FIT and ETF) |
+| | `instruction_language_source` | Where the instruction language comes from (course specification or institution level) |
+| | `language` | Raw value of the language field in the source, if given (IBU only) |
+| Provenance | `source_file`, `source_page` | Source PDF file and page where the course specification starts |
+| | `source_url`, `retrieval_date` | Download link and date of the source document |
+| | `curriculum_version` | Curriculum version or academic year, as stated in the document |
+| | `extraction_date` | Date on which the text was extracted from the PDF |
+| Consistency | `has_source_inconsistency` | `true` if the source document contains conflicting values for this course |
+| | `source_inconsistencies` | List of the detected discrepancies |
+| | `source_*`, `curriculum_table_*` | The two conflicting values (name, code, year, semester, ECTS) as found in the detailed specification and in the curriculum table |
+
+## Evaluation
+
+* `evaluation/sample_for_validation.py` draws the stratified random sample
+  (10 records per institution, seed 42).
+* `evaluation/validation_sample.csv` contains the manual judgements
+  (1 = correct, 0.5 = partly correct, 0 = wrong) for eight fields.
+* `evaluation/compute_accuracy.py` computes strict and lenient accuracy
+  (`results/accuracy_results.csv`, Table V of the paper).
+* `evaluation/lo_split_evaluation.csv` contains the evaluation of the
+  learning-outcome splitter on FIT (development and test sample).
+* `evaluation/compare_versions.py` compares the dataset before and after the
+  parser corrections; the earlier version is not included in the repository.
+
+## License
+
+Code: MIT. Structured data in `data/structured/`: CC BY 4.0. See `LICENSE`.
+The original curriculum documents remain the property of the institutions and
+are not redistributed.
