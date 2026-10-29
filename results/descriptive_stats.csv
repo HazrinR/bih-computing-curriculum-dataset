@@ -1,0 +1,18 @@
+﻿,FIT,IBU,ETF,Total
+Courses,35,44,41,120
+Year 1,14,3,10,27
+Year 2,10,12,12,34
+Year 3,11,29,19,59
+Semester: winter,16,16,23,55
+Semester: summer,19,14,18,51
+Semester: both,0,14,0,14
+Status: mandatory,26,15,27,68
+Status: elective,9,19,14,42
+Status: mixed,0,10,0,10
+ECTS mean (SD),5.9 (1.5),6.2 (1.1),5.3 (1.3),5.8 (1.4)
+ECTS median,6.0,6.0,5.0,6.0
+ECTS range,3-12,5-10,4-12,3-12
+"LOs per course, mean",4.5,5.7,5.1,5.2
+"Topics per course, mean",11.3,15.0,9.2,11.9
+"LO text tokens, mean",50,65,79,65
+"Topic text tokens, mean",52,67,172,99

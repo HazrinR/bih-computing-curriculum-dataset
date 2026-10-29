@@ -57,7 +57,7 @@ data/
   structured/unified/       all_courses.json  <- the final dataset (120 courses)
 scripts/                    extraction, parsing, validation, dataset building
 evaluation/                 manual correctness evaluation and its scripts
-analysis/                   learning-outcome counts and TF-IDF analysis
+analysis/                   descriptive statistics, learning-outcome counts and TF-IDF analysis
 results/                    output tables of the evaluation and analysis
 ```
 
@@ -97,6 +97,7 @@ python scripts/validate_unified.py
 # 5. analysis
 python analysis/lo_counts.py
 python analysis/make_fig2_schema.py   # Fig. 2 of the paper
+python analysis/descriptive_stats.py  # Table III of the paper
 python analysis/tfidf_terms.py
 
 # 6. (optional) load into a local MongoDB
